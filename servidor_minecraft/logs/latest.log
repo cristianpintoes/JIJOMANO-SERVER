@@ -766,3 +766,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Jul2025 23:20:39.809] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Loading 2 plugins: supplementaries, shulkerboxtooltip
 [08Jul2025 23:20:39.828] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 2 providers for mod supplementaries
 [08Jul2025 23:20:39.831] [Server thread/INFO] [ShulkerBoxTooltip Plugins/]: [ShulkerBoxTooltip Plugins] Registered 7 providers for mod shulkerboxtooltip
+[08Jul2025 23:43:38.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: firefrost52[/100.76.73.98:15263] logged in with entity id 9964 at (313.5, 72.0, 742.5)
+[08Jul2025 23:43:38.521] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player firefrost52
+[08Jul2025 23:43:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 joined the game
+[08Jul2025 23:43:38.565] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[08Jul2025 23:43:38.568] [Server thread/INFO] [Jade/]: Syncing config to firefrost52 (f0c737ce-567c-3525-8946-78b9ce9474fb)
+[08Jul2025 23:43:38.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Orcz Challenges]
+[08Jul2025 23:43:38.959] [Netty Epoll Server IO #4/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] firefrost52: protocol version: 2.0
+[08Jul2025 23:43:51.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zCris117[/100.89.0.42:54759] logged in with entity id 10745 at (316.5, 72.0, 743.5)
+[08Jul2025 23:43:51.519] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player zCris117
+[08Jul2025 23:43:51.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 joined the game
+[08Jul2025 23:43:51.568] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[08Jul2025 23:43:51.571] [Server thread/INFO] [Jade/]: Syncing config to zCris117 (eccad2dc-96ae-3d7e-84dc-3b870e693a4a)
+[08Jul2025 23:43:51.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Orcz Challenges]
+[08Jul2025 23:43:51.988] [Netty Epoll Server IO #7/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] zCris117: protocol version: 2.0
+[08Jul2025 23:44:01.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Alex's Mobs]
