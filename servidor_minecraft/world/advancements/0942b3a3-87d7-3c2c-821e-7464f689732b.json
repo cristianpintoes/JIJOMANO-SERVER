@@ -703,6 +703,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-09 00:32:07 +0000"
@@ -718,6 +724,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-09 00:32:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-09 00:55:53 +0000"
     },
     "done": true
   },
@@ -964,6 +976,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_lime": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:55:53 +0000"
     },
     "done": true
   },
@@ -1549,6 +1567,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:55:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-07-09 00:07:30 +0000"
@@ -1819,6 +1843,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-09 00:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-07-09 00:07:30 +0000"
@@ -1888,6 +1918,12 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-07-09 00:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:55:53 +0000"
     },
     "done": true
   },
@@ -2086,6 +2122,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-07-09 00:21:59 +0000",
+      "golden_apple": "2025-07-09 00:54:31 +0000",
+      "melon_slice": "2025-07-09 00:56:00 +0000",
+      "cooked_rabbit": "2025-07-09 00:49:42 +0000",
       "carrot": "2025-07-09 00:19:49 +0000"
     },
     "done": false

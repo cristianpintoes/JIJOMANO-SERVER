@@ -2666,11 +2666,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2025-07-09 00:53:10 +0000",
+      "minecraft:wooded_badlands": "2025-07-09 00:50:13 +0000",
+      "minecraft:badlands": "2025-07-09 00:52:11 +0000",
       "minecraft:beach": "2025-07-08 23:52:56 +0000",
       "minecraft:sparse_jungle": "2025-07-08 23:44:06 +0000",
       "minecraft:lukewarm_ocean": "2025-07-09 00:17:59 +0000",
       "minecraft:river": "2025-07-09 00:21:21 +0000",
       "minecraft:lush_caves": "2025-07-09 00:09:00 +0000",
+      "minecraft:desert": "2025-07-09 00:49:54 +0000",
       "minecraft:jungle": "2025-07-09 00:21:57 +0000",
       "minecraft:ocean": "2025-07-09 00:18:06 +0000"
     },
@@ -2800,6 +2804,7 @@
     "criteria": {
       "apple": "2025-07-09 00:11:36 +0000",
       "cooked_cod": "2025-07-09 00:27:10 +0000",
+      "bread": "2025-07-09 00:59:08 +0000",
       "rotten_flesh": "2025-07-09 00:01:21 +0000",
       "glow_berries": "2025-07-09 00:11:25 +0000",
       "melon_slice": "2025-07-09 00:31:40 +0000",
