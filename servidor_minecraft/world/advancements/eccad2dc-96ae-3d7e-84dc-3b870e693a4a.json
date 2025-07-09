@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/soap/map": {
     "criteria": {
       "has_filled_map": "2025-07-09 00:42:11 +0000"
@@ -56,6 +62,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },
@@ -98,6 +110,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-08 23:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
     },
     "done": true
   },
@@ -161,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-09 01:06:30 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/upgrades/iron_to_gold_shulker_box_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:12:31 +0000"
@@ -215,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-07-09 01:01:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 00:40:02 +0000"
@@ -236,6 +266,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-07-09 00:39:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-07-09 01:01:23 +0000"
     },
     "done": true
   },
@@ -455,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-09 01:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:12:31 +0000"
@@ -503,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-07-09 00:45:00 +0000"
@@ -512,6 +560,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-08 23:53:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2025-07-09 01:01:29 +0000"
     },
     "done": true
   },
@@ -569,9 +623,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-09 01:06:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-07-09 00:22:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_thin_pot": {
+    "criteria": {
+      "has_terracotta_thin_pot": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },
@@ -590,6 +656,18 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-07-08 23:49:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
     },
     "done": true
   },
@@ -647,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "woodenbucket:recipes/misc/wooden_bucket": {
     "criteria": {
       "has_log": "2025-07-08 23:49:33 +0000"
@@ -689,6 +773,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-09 00:18:49 +0000"
@@ -719,6 +815,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/terracotta_wide_pot": {
+    "criteria": {
+      "has_terracotta_wide_pot": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/cyan/gold/iron_gold_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
@@ -746,6 +848,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_light_blue": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:12:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_cup": {
+    "criteria": {
+      "has_terracotta_cup": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },
@@ -887,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-09 00:16:29 +0000"
@@ -996,6 +1110,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/terracotta_bowl": {
+    "criteria": {
+      "has_terracotta_bowl": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_item": "2025-07-09 00:04:03 +0000"
@@ -1056,9 +1176,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2025-07-09 01:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-08 23:56:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
     },
     "done": true
   },
@@ -1077,6 +1209,18 @@
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-07-09 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-09 01:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },
@@ -1101,6 +1245,12 @@
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },
@@ -1182,6 +1332,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/terracotta_medium_pot": {
+    "criteria": {
+      "has_terracotta_medium_pot": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 00:18:49 +0000"
@@ -1248,6 +1416,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-09 01:06:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-09 00:16:29 +0000"
@@ -1287,6 +1461,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-07-09 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 01:14:43 +0000"
     },
     "done": true
   },
@@ -1650,6 +1830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-09 01:01:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_chair": {
     "criteria": {
       "has_oak_chair": "2025-07-08 23:50:11 +0000"
@@ -1671,6 +1857,12 @@
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-07-09 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
     },
     "done": true
   },
@@ -1758,6 +1950,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/terracotta_thick_pot": {
+    "criteria": {
+      "has_terracotta_thick_pot": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_drakkar": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
@@ -1773,6 +1971,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-07-08 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-09 01:08:02 +0000"
     },
     "done": true
   },
@@ -1848,6 +2052,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-07-09 01:14:43 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/upgrades/vanilla_to_iron_shulker_box_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:12:31 +0000"
@@ -1902,6 +2112,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-09 01:14:43 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/lime/gold/iron_gold_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
@@ -1932,9 +2148,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/green/iron/vanilla_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-09 01:06:30 +0000"
     },
     "done": true
   },
@@ -1965,6 +2193,12 @@
   "smallships:recipes/transportation/jungle_drakkar": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
     },
     "done": true
   },
@@ -2010,6 +2244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/blank_upgrade": {
     "criteria": {
       "has_leather": "2025-07-09 00:45:00 +0000"
@@ -2025,6 +2265,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-09 00:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },
@@ -2130,6 +2376,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-09 01:06:32 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-07-09 00:12:31 +0000"
@@ -2145,6 +2397,12 @@
   "nethersdelight:recipes/tools/iron_machete": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-09 01:01:25 +0000"
     },
     "done": true
   },
@@ -2244,15 +2502,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-08 23:50:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
+    },
+    "done": true
+  },
   "vanillabackport:recipes/transportation/pale_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_acropolis": {
+    "criteria": {
+      "acropolis": "2025-07-09 01:10:58 +0000"
     },
     "done": true
   },
@@ -2340,6 +2616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-09 01:06:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_couch": {
     "criteria": {
       "has_jungle_couch": "2025-07-09 00:04:03 +0000"
@@ -2349,6 +2631,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-08 23:59:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 01:06:30 +0000"
     },
     "done": true
   },
@@ -2421,6 +2709,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-08 23:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },
@@ -2511,6 +2805,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/light_blue/iron/vanilla_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },
@@ -2622,6 +2922,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-09 01:08:02 +0000"
+    },
+    "done": true
+  },
   "artifacts:amateur_archaeologist": {
     "criteria": {
       "find_artifact": "2025-07-09 00:32:03 +0000"
@@ -2637,6 +2943,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-07-08 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-09 01:08:02 +0000"
     },
     "done": true
   },
@@ -2676,7 +2988,8 @@
       "minecraft:lush_caves": "2025-07-09 00:09:00 +0000",
       "minecraft:desert": "2025-07-09 00:49:54 +0000",
       "minecraft:jungle": "2025-07-09 00:21:57 +0000",
-      "minecraft:ocean": "2025-07-09 00:18:06 +0000"
+      "minecraft:ocean": "2025-07-09 00:18:06 +0000",
+      "minecraft:warm_ocean": "2025-07-09 01:10:29 +0000"
     },
     "done": false
   },
@@ -2719,6 +3032,12 @@
   "handcrafted:recipes/misc/jungle_corner_trim": {
     "criteria": {
       "has_jungle_corner_trim": "2025-07-09 00:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-09 01:01:29 +0000"
     },
     "done": true
   },
@@ -2802,6 +3121,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-09 01:10:13 +0000",
       "apple": "2025-07-09 00:11:36 +0000",
       "cooked_cod": "2025-07-09 00:27:10 +0000",
       "bread": "2025-07-09 00:59:08 +0000",
@@ -2812,6 +3132,18 @@
       "cooked_chicken": "2025-07-09 00:11:58 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/terracotta_plate": {
+    "criteria": {
+      "has_terracotta_plate": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
   },
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
@@ -2999,9 +3331,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-07-08 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-07-09 01:01:24 +0000"
     },
     "done": true
   },

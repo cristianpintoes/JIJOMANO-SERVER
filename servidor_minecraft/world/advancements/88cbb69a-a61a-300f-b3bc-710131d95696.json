@@ -395,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/purple/diamond/gold_diamond_shulker_box": {
     "criteria": {
       "has_diamonds": "2025-07-09 00:57:02 +0000"
@@ -482,6 +488,12 @@
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-07-09 00:30:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-07-09 01:14:54 +0000"
     },
     "done": true
   },
@@ -590,6 +602,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-07-09 00:13:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
     },
     "done": true
   },
@@ -764,6 +782,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-09 00:50:17 +0000",
+      "minecraft:spider": "2025-07-09 01:14:46 +0000",
       "minecraft:silverfish": "2025-07-09 00:26:38 +0000",
       "minecraft:zombie": "2025-07-09 00:14:39 +0000"
     },
@@ -823,6 +842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-07-09 00:21:55 +0000"
@@ -838,6 +863,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
     },
     "done": true
   },
@@ -946,6 +977,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-07-09 00:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
     },
     "done": true
   },
@@ -1111,6 +1148,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "glow_berries": "2025-07-09 01:01:53 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-07-09 00:21:55 +0000"
@@ -1171,6 +1214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_the_recipe": "2025-07-09 01:02:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 00:25:27 +0000"
@@ -1192,6 +1241,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-09 00:36:29 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
     },
     "done": true
   },
@@ -2119,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/light_gray/diamond/gold_diamond_shulker_box": {
     "criteria": {
       "has_diamonds": "2025-07-09 00:57:02 +0000"
@@ -2505,6 +2566,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-07-09 00:25:21 +0000"
@@ -2538,6 +2605,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/lime/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:41:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-07-09 01:02:54 +0000"
     },
     "done": true
   },

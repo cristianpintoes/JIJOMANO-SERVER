@@ -817,6 +817,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-09 01:02:29 +0000",
       "minecraft:spider": "2025-07-09 00:57:06 +0000",
       "minecraft:zombie": "2025-07-08 23:56:01 +0000"
     },
@@ -1560,6 +1561,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-07-09 01:02:29 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2025-07-08 23:56:15 +0000"
@@ -1677,6 +1684,12 @@
   "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-09 00:05:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-07-09 01:07:15 +0000"
     },
     "done": true
   },
@@ -1872,6 +1885,12 @@
     },
     "done": true
   },
+  "cataclysm:find_acropolis": {
+    "criteria": {
+      "acropolis": "2025-07-09 01:11:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_yellow": {
     "criteria": {
       "has_stick": "2025-07-08 23:51:28 +0000"
@@ -1977,6 +1996,12 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-07-08 23:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-09 01:09:27 +0000"
     },
     "done": true
   },
@@ -2216,6 +2241,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:wooded_badlands": "2025-07-09 01:04:59 +0000",
       "minecraft:beach": "2025-07-08 23:54:05 +0000",
       "minecraft:sparse_jungle": "2025-07-08 23:44:00 +0000",
       "minecraft:lukewarm_ocean": "2025-07-08 23:56:21 +0000",
@@ -2224,6 +2250,7 @@
       "minecraft:desert": "2025-07-09 00:56:45 +0000",
       "minecraft:jungle": "2025-07-09 00:21:57 +0000",
       "minecraft:ocean": "2025-07-09 00:19:20 +0000",
+      "minecraft:warm_ocean": "2025-07-09 01:10:45 +0000",
       "minecraft:savanna": "2025-07-09 00:45:49 +0000"
     },
     "done": false
