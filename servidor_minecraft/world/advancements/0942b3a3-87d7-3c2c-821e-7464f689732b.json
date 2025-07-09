@@ -849,6 +849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-09 02:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-09 01:54:01 +0000"
@@ -870,6 +876,12 @@
   "ironshulkerbox:recipes/decorations/upgrades/iron_to_gold_shulker_box_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-09 02:15:15 +0000"
     },
     "done": true
   },
@@ -972,6 +984,12 @@
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2025-07-09 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-09 02:15:15 +0000"
     },
     "done": true
   },
@@ -1632,6 +1650,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-07-09 02:08:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_item": "2025-07-09 00:07:30 +0000"
@@ -1725,6 +1749,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-09 00:32:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-09 02:11:30 +0000"
     },
     "done": true
   },
@@ -2594,6 +2624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-09 02:08:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-07-09 01:33:12 +0000"
@@ -3039,6 +3075,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-09 02:15:15 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-07-09 02:03:05 +0000"
@@ -3329,6 +3371,7 @@
       "golden_apple": "2025-07-09 00:54:31 +0000",
       "melon_slice": "2025-07-09 00:56:00 +0000",
       "cooked_rabbit": "2025-07-09 00:49:42 +0000",
+      "cooked_chicken": "2025-07-09 02:09:55 +0000",
       "carrot": "2025-07-09 00:19:49 +0000"
     },
     "done": false
@@ -3384,6 +3427,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-09 02:15:15 +0000"
     },
     "done": true
   },
