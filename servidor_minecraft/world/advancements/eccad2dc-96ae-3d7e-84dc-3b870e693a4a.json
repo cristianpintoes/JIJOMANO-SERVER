@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-07-09 01:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-07-09 00:01:15 +0000"
@@ -404,6 +410,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/brown/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-09 01:47:36 +0000"
     },
     "done": true
   },
@@ -869,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-09 01:49:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_wide_pot": {
     "criteria": {
       "has_terracotta_wide_pot": "2025-07-09 01:01:24 +0000"
@@ -1067,6 +1085,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-09 01:49:43 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/green/gold/iron_gold_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
@@ -1160,7 +1184,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-08 23:53:22 +0000",
-      "minecraft:zombie": "2025-07-08 23:59:52 +0000"
+      "minecraft:zombie": "2025-07-08 23:59:52 +0000",
+      "minecraft:drowned": "2025-07-09 01:50:35 +0000"
     },
     "done": false
   },
@@ -1392,6 +1417,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-09 01:49:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_cushion": {
     "criteria": {
       "has_white_cushion": "2025-07-09 00:45:00 +0000"
@@ -1458,6 +1489,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 01:57:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
@@ -1521,6 +1558,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-09 01:49:43 +0000"
     },
     "done": true
   },
@@ -2562,6 +2605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-09 01:57:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-08 23:58:46 +0000"
@@ -3108,6 +3157,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-09 01:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-07-09 00:01:35 +0000"
@@ -3184,6 +3239,12 @@
       "minecraft:warm_ocean": "2025-07-09 01:10:29 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-07-09 01:49:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
@@ -3314,6 +3375,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/light_gray/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:12:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-07-09 01:49:43 +0000"
     },
     "done": true
   },
@@ -3546,6 +3613,12 @@
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-07-09 01:49:43 +0000"
     },
     "done": true
   },

@@ -717,6 +717,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-07-09 01:54:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-09 01:24:30 +0000"
@@ -822,6 +828,12 @@
   "handcrafted:recipes/misc/acacia_table": {
     "criteria": {
       "has_acacia_table": "2025-07-09 01:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-07-09 01:54:01 +0000"
     },
     "done": true
   },
@@ -954,6 +966,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/brown/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-07-09 01:54:01 +0000"
     },
     "done": true
   },
@@ -1302,6 +1320,12 @@
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-07-09 00:32:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-07-09 01:54:47 +0000"
     },
     "done": true
   },
@@ -1838,6 +1862,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-07-09 01:48:37 +0000",
       "wheat": "2025-07-09 01:35:45 +0000"
     },
     "done": false
@@ -2047,6 +2072,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-07-09 01:49:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-07-09 00:25:18 +0000"
@@ -2062,6 +2093,12 @@
   "handcrafted:recipes/misc/acacia_corner_trim": {
     "criteria": {
       "has_acacia_corner_trim": "2025-07-09 01:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-09 01:45:06 +0000"
     },
     "done": true
   },
@@ -2449,6 +2486,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-07-09 01:54:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-09 01:13:48 +0000"
@@ -2469,7 +2512,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:sheep": "2025-07-09 01:37:53 +0000"
+      "minecraft:sheep": "2025-07-09 01:37:53 +0000",
+      "minecraft:chicken": "2025-07-09 01:54:36 +0000"
     },
     "done": false
   },
@@ -2983,6 +3027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-07-09 01:45:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-09 00:24:55 +0000"
@@ -3033,6 +3083,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-07-09 01:53:12 +0000",
+      "cooked_cod": "2025-07-09 01:52:16 +0000",
       "bread": "2025-07-09 00:21:59 +0000",
       "golden_apple": "2025-07-09 00:54:31 +0000",
       "melon_slice": "2025-07-09 00:56:00 +0000",
@@ -3254,6 +3306,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-09 01:42:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-07-09 01:54:47 +0000"
     },
     "done": true
   },
