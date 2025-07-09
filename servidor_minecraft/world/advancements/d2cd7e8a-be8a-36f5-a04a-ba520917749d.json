@@ -1415,9 +1415,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-09 00:44:05 +0000"
     },
     "done": true
   },
@@ -1436,6 +1448,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-07-09 00:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-09 00:45:19 +0000"
     },
     "done": true
   },
@@ -1460,6 +1478,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/blue/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-09 00:36:01 +0000"
     },
     "done": true
   },
@@ -1529,9 +1553,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-09 00:45:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-09 00:45:19 +0000"
     },
     "done": true
   },
@@ -1586,6 +1622,12 @@
   "supplementaries:recipes/soap": {
     "criteria": {
       "forge:ash": "2025-07-09 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:44:05 +0000"
     },
     "done": true
   },
@@ -1667,6 +1709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-09 00:46:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-09 00:14:41 +0000"
@@ -1676,7 +1724,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-09 00:17:13 +0000",
-      "minecraft:spider": "2025-07-09 00:13:31 +0000"
+      "minecraft:spider": "2025-07-09 00:13:31 +0000",
+      "minecraft:silverfish": "2025-07-09 00:45:45 +0000",
+      "minecraft:zombie": "2025-07-09 00:39:52 +0000"
     },
     "done": false
   },
@@ -1710,6 +1760,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-07-09 00:46:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bomb": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -1737,6 +1793,12 @@
   "supplementaries:recipes/ash_brick": {
     "criteria": {
       "forge:ash": "2025-07-09 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-09 00:45:19 +0000"
     },
     "done": true
   },
@@ -1836,6 +1898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:44:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-09 00:14:41 +0000"
@@ -1896,6 +1964,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_jungle": "2025-07-09 00:44:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-09 00:14:41 +0000"
@@ -1905,6 +1979,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/yellow/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-09 00:45:19 +0000"
     },
     "done": true
   },
@@ -1956,6 +2036,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-09 00:45:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-09 00:44:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -1971,6 +2063,12 @@
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:44:05 +0000"
     },
     "done": true
   },
@@ -1995,6 +2093,12 @@
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-09 00:36:49 +0000"
     },
     "done": true
   },
@@ -2070,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-07-09 00:38:31 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/pink/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:26:34 +0000"
@@ -2079,6 +2189,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/black/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-09 00:45:19 +0000"
     },
     "done": true
   },
@@ -2100,9 +2216,16 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-07-09 00:45:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "glow_berries": "2025-07-09 00:31:06 +0000"
+      "glow_berries": "2025-07-09 00:31:06 +0000",
+      "melon_slice": "2025-07-09 00:44:09 +0000"
     },
     "done": false
   },
