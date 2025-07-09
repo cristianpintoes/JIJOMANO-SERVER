@@ -927,6 +927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-09 01:28:51 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/brown/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:43:21 +0000"
@@ -1089,6 +1095,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-07-09 01:28:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-07-09 01:35:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
       "has_acacia_shelf": "2025-07-09 01:15:12 +0000"
@@ -1143,6 +1161,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 01:28:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-07-09 01:18:42 +0000"
@@ -1170,6 +1194,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-07-09 00:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-09 01:35:16 +0000"
     },
     "done": true
   },
@@ -1440,6 +1470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-07-09 01:28:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_bowl": {
     "criteria": {
       "has_terracotta_bowl": "2025-07-09 00:32:07 +0000"
@@ -1479,6 +1515,12 @@
   "travelersbackpack:recipes/misc/bat_smithing": {
     "criteria": {
       "has_bat": "2025-07-09 00:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-09 01:35:16 +0000"
     },
     "done": true
   },
@@ -1620,6 +1662,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 01:28:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-09 01:09:25 +0000"
@@ -1665,6 +1713,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-07-09 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-09 01:29:08 +0000"
     },
     "done": true
   },
@@ -1728,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-09 01:33:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_no_tanks": {
     "criteria": {
       "has_chest": "2025-07-09 00:35:54 +0000"
@@ -1758,9 +1818,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-07-09 01:28:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_tropical_fish_trophy": "2025-07-09 00:07:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-09 01:29:08 +0000"
     },
     "done": true
   },
@@ -1803,6 +1875,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-07-09 01:35:16 +0000"
     },
     "done": true
   },
@@ -1975,6 +2053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-09 01:35:16 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/magenta/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:43:21 +0000"
@@ -2002,6 +2086,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-07-09 01:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-07-09 01:28:05 +0000"
     },
     "done": true
   },
@@ -2188,6 +2278,12 @@
   "supplementaries:recipes/sign_post_jungle": {
     "criteria": {
       "has_the_recipe": "2025-07-09 00:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-09 01:33:12 +0000"
     },
     "done": true
   },
@@ -2557,6 +2653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-09 01:28:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-09 00:07:30 +0000"
@@ -2620,6 +2722,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-07-09 01:28:05 +0000"
     },
     "done": true
   },
@@ -2695,6 +2803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-09 01:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-09 01:18:42 +0000"
@@ -2753,6 +2867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-09 01:28:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-07-09 00:24:55 +0000"
@@ -2798,6 +2918,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-09 00:26:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-07-09 01:28:05 +0000"
     },
     "done": true
   },
@@ -2858,6 +2984,12 @@
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-09 00:32:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-07-09 01:35:16 +0000"
     },
     "done": true
   },

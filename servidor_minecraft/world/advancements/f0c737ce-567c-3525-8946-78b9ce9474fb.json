@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-09 01:32:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-07-08 23:51:28 +0000"
@@ -200,6 +206,12 @@
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-07-09 00:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-09 01:30:30 +0000"
     },
     "done": true
   },
@@ -707,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-09 01:35:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:04:00 +0000"
@@ -817,6 +835,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-09 01:30:35 +0000",
       "minecraft:skeleton": "2025-07-09 01:02:29 +0000",
       "minecraft:spider": "2025-07-09 00:57:06 +0000",
       "minecraft:zombie": "2025-07-08 23:56:01 +0000"
@@ -1084,6 +1103,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-08 23:44:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-07-09 01:29:01 +0000"
     },
     "done": true
   },
@@ -1902,6 +1927,12 @@
       "has_stick": "2025-07-08 23:51:28 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_desert": "2025-07-09 01:31:20 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
