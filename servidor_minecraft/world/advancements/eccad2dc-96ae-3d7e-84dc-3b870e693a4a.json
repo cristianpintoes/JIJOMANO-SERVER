@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/white/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/purple/gold/iron_gold_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
@@ -176,6 +182,12 @@
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-07-09 01:49:43 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/pink/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -551,6 +563,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flower_box": {
     "criteria": {
       "has_dirt": "2025-07-08 23:54:13 +0000"
@@ -875,6 +893,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/purple/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/black/gold/iron_gold_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
@@ -971,6 +995,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/black/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_gray": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:12:31 +0000"
@@ -998,6 +1028,12 @@
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-07-08 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/light_blue/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -1543,9 +1579,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-09 02:04:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-08 23:49:36 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/orange/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -1558,6 +1606,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/green/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -1735,6 +1789,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/light_gray/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/red/iron/vanilla_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
@@ -1744,6 +1804,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_the_recipe": "2025-07-09 00:01:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-09 02:04:01 +0000"
     },
     "done": true
   },
@@ -2167,6 +2233,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/blue/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-07-09 01:28:33 +0000"
@@ -2395,6 +2467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-07-09 00:02:45 +0000"
@@ -2416,6 +2494,12 @@
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2025-07-08 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/red/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -2719,6 +2803,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/lime/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-09 01:01:29 +0000"
@@ -2728,6 +2818,12 @@
   "vanillabackport:recipes/transportation/pale_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -2893,6 +2989,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/magenta/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_fancy_bed": {
     "criteria": {
       "has_jungle_fancy_bed": "2025-07-09 00:04:03 +0000"
@@ -2962,6 +3064,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-08 23:59:15 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/default/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -3046,6 +3154,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-07-09 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/yellow/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -3232,11 +3346,14 @@
       "minecraft:sparse_jungle": "2025-07-08 23:44:06 +0000",
       "minecraft:lukewarm_ocean": "2025-07-09 00:17:59 +0000",
       "minecraft:river": "2025-07-09 00:21:21 +0000",
+      "minecraft:forest": "2025-07-09 02:00:35 +0000",
       "minecraft:lush_caves": "2025-07-09 00:09:00 +0000",
       "minecraft:desert": "2025-07-09 00:49:54 +0000",
       "minecraft:jungle": "2025-07-09 00:21:57 +0000",
       "minecraft:ocean": "2025-07-09 00:18:06 +0000",
-      "minecraft:warm_ocean": "2025-07-09 01:10:29 +0000"
+      "minecraft:warm_ocean": "2025-07-09 01:10:29 +0000",
+      "minecraft:savanna": "2025-07-09 02:01:31 +0000",
+      "minecraft:plains": "2025-07-09 02:01:18 +0000"
     },
     "done": false
   },
@@ -3333,6 +3450,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-07-08 23:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-09 02:04:01 +0000"
     },
     "done": true
   },
@@ -3490,9 +3613,21 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/brown/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -3541,6 +3676,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-07-09 01:28:33 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/gray/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },
@@ -3661,6 +3802,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-07-08 23:52:32 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/cyan/obsidian/diamond_obsidian_shulker_box": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 02:06:15 +0000"
     },
     "done": true
   },

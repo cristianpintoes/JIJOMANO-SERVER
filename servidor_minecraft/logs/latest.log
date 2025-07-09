@@ -461,3 +461,66 @@
 [09Jul2025 02:00:58.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.667702842950348
 [09Jul2025 02:00:58.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 1.804455731253256
 [09Jul2025 02:01:04.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9516ms or 190 ticks behind
+[09Jul2025 02:01:29.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9687ms or 193 ticks behind
+[09Jul2025 02:01:55.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11005ms or 220 ticks behind
+[09Jul2025 02:02:17.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6881ms or 137 ticks behind
+[09Jul2025 02:02:39.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6867ms or 137 ticks behind
+[09Jul2025 02:03:01.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7783ms or 155 ticks behind
+[09Jul2025 02:03:05.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrisPinto01 has made the advancement [Diamonds!]
+[09Jul2025 02:03:19.296] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/272701, l='ServerLevel[world]', x=898.86, y=76.49, z=1751.04] died, message: 'Farmer was shot by Pillager'
+[09Jul2025 02:03:24.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7940ms or 158 ticks behind
+[09Jul2025 02:03:37.639] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/273763, l='ServerLevel[world]', x=892.53, y=78.66, z=1718.30] died, message: 'Nitwit was shot by Pillager'
+[09Jul2025 02:03:48.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8781ms or 175 ticks behind
+[09Jul2025 02:04:14.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11072ms or 221 ticks behind
+[09Jul2025 02:04:38.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8937ms or 178 ticks behind
+[09Jul2025 02:04:49.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Sunken in the Sea]
+[09Jul2025 02:05:03.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/273543, l='ServerLevel[world]', x=913.60, y=82.00, z=1701.54] died, message: 'Nitwit was slain by Guster'
+[09Jul2025 02:05:04.963] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11521ms or 230 ticks behind
+[09Jul2025 02:05:19.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved too quickly! 10.076878508264485,0.0,0.2458946582983117
+[09Jul2025 02:05:19.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved too quickly! 10.439558330748696,0.0,0.10852618662829627
+[09Jul2025 02:05:35.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15340ms or 306 ticks behind
+[09Jul2025 02:06:00.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10096ms or 201 ticks behind
+[09Jul2025 02:06:15.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Ice Bucket Challenge]
+[09Jul2025 02:06:23.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8132ms or 162 ticks behind
+[09Jul2025 02:06:46.347] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7954ms or 159 ticks behind
+[09Jul2025 02:07:08.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7097ms or 141 ticks behind
+[09Jul2025 02:07:13.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight has made the advancement [Ice Bucket Challenge]
+[09Jul2025 02:07:30.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7060ms or 141 ticks behind
+[09Jul2025 02:07:54.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9385ms or 187 ticks behind
+[09Jul2025 02:08:17.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7398ms or 147 ticks behind
+[09Jul2025 02:08:40.575] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8433ms or 168 ticks behind
+[09Jul2025 02:08:46.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrisPinto01> zzzzzz
+[09Jul2025 02:08:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zCris117> zzz
+[09Jul2025 02:08:53.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zCris117> zzzz
+[09Jul2025 02:08:54.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tulio777> zzz
+[09Jul2025 02:08:54.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zCris117> zzzz
+[09Jul2025 02:08:57.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tulio777> ctm
+[09Jul2025 02:08:57.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrisPinto01> zzzzzz
+[09Jul2025 02:08:58.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrisPinto01> zzzzzz
+[09Jul2025 02:08:59.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CrisPinto01> zzzzz
+[09Jul2025 02:09:01.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5612ms or 112 ticks behind
+[09Jul2025 02:09:01.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zCris117> el shion es puto
+[09Jul2025 02:09:02.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Tulio777> pinche shon
+[09Jul2025 02:09:04.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: firefrost52 lost connection: Disconnected
+[09Jul2025 02:09:04.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 left the game
+[09Jul2025 02:09:11.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: firefrost52[/100.76.73.98:16299] logged in with entity id 338971 at (313.89813620037614, 22.0, 3449.4822663266004)
+[09Jul2025 02:09:11.097] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player firefrost52
+[09Jul2025 02:09:11.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 joined the game
+[09Jul2025 02:09:11.110] [Server thread/INFO] [untamedwilds.UntamedWilds/]: Firing player login event
+[09Jul2025 02:09:11.115] [Server thread/INFO] [Jade/]: Syncing config to firefrost52 (f0c737ce-567c-3525-8946-78b9ce9474fb)
+[09Jul2025 02:09:13.964] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[09Jul2025 02:09:14.009] [Netty Epoll Server IO #2/INFO] [ShulkerBoxTooltip/]: [ShulkerBoxTooltip] firefrost52: protocol version: 2.0
+[09Jul2025 02:09:16.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [We Need to Go Deeper]
+[09Jul2025 02:09:18.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tulio777 moved too quickly! -5.6182713640836255,6.998424763009879,-4.419634217967541
+[09Jul2025 02:09:24.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8258ms or 165 ticks behind
+[09Jul2025 02:09:25.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight has made the advancement [We Need to Go Deeper]
+[09Jul2025 02:09:46.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7174ms or 143 ticks behind
+[09Jul2025 02:10:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Straddle My Ol' Saddle]
+[09Jul2025 02:10:09.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7964ms or 159 ticks behind
+[09Jul2025 02:10:22.287] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 75.94 μs. 73/117 recipes are parallelized.
+[09Jul2025 02:10:34.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9724ms or 194 ticks behind
+[09Jul2025 02:10:43.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight has made the advancement [Hot Stuff]
+[09Jul2025 02:10:57.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8685ms or 173 ticks behind
+[09Jul2025 02:11:21.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8437ms or 168 ticks behind
+[09Jul2025 02:11:30.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrisPinto01 has made the advancement [Mine? Mine? Mine?]
+[09Jul2025 02:11:45.337] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9095ms or 181 ticks behind
