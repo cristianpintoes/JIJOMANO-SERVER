@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-09 01:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-09 00:25:21 +0000"
@@ -551,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-07-09 01:24:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2025-07-09 00:25:27 +0000"
@@ -797,6 +809,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/cyan/diamond/gold_diamond_shulker_box": {
     "criteria": {
       "has_diamonds": "2025-07-09 00:57:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2025-07-09 01:24:01 +0000"
     },
     "done": true
   },
@@ -1772,6 +1790,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-09 01:24:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-09 00:18:01 +0000"
@@ -2312,6 +2336,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-09 01:24:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-09 00:42:08 +0000"
@@ -2478,6 +2508,7 @@
     "criteria": {
       "cooked_cod": "2025-07-09 00:19:41 +0000",
       "glow_berries": "2025-07-09 00:50:36 +0000",
+      "melon_slice": "2025-07-09 01:18:01 +0000",
       "cooked_chicken": "2025-07-09 00:39:56 +0000"
     },
     "done": false

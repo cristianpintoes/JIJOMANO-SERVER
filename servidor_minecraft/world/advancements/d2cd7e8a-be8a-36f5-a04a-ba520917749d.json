@@ -1425,6 +1425,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/purple/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-07-09 00:44:05 +0000"
@@ -1485,15 +1491,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-09 01:22:08 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/upgrades/iron_to_gold_shulker_box_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
     },
     "done": true
   },
+  "nethersdelight:recipes/tools/golden_machete": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/light_blue/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/black/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/lime/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -1521,6 +1557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -1530,6 +1572,12 @@
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/blue/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -1581,6 +1629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -1611,6 +1665,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -1626,6 +1686,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -1665,9 +1731,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/brown/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_pink": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/default/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -1677,15 +1761,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/gold_trapdoor": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-09 00:50:05 +0000"
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/black/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/cyan/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/decorations/blackstone_blast_furnace": {
     "criteria": {
       "has_iron": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/blue/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -1719,6 +1833,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/gray/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-07-09 00:20:47 +0000"
@@ -1731,6 +1851,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-07-09 01:27:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -1740,6 +1866,30 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-09 00:46:08 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/green/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/yellow/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2025-07-09 01:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-09 01:22:08 +0000"
     },
     "done": true
   },
@@ -1764,9 +1914,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -1818,6 +1980,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-07-09 01:02:17 +0000"
@@ -1866,9 +2034,33 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/light_gray/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 00:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2025-07-09 01:22:08 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/red/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -1899,6 +2091,12 @@
   "supplementaries:recipes/goblet": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/light_gray/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -1950,6 +2148,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/pink/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_chiseled_stone_bricks": "2025-07-09 00:20:47 +0000"
@@ -1977,6 +2181,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-07-09 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/gray/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2010,6 +2220,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/upgrades/vanilla_to_iron_shulker_box_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -2022,9 +2238,21 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/pink/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-09 00:24:29 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/lime/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2037,6 +2265,12 @@
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 00:50:05 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/green/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2088,9 +2322,21 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/white/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/orange/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2118,6 +2364,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/cyan/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-07-09 00:26:34 +0000"
@@ -2139,6 +2391,24 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 00:50:05 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/yellow/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/light_blue/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2172,6 +2442,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/magenta/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/copper_to_iron_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -2202,6 +2478,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/brown/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/orange/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2025-07-09 01:22:08 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/orange/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:26:34 +0000"
@@ -2217,6 +2517,12 @@
   "ironchest:recipes/decorations/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2241,6 +2547,18 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/default/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/light_blue/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2298,6 +2616,12 @@
     },
     "done": true
   },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/red/gold/iron_gold_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-07-09 00:13:00 +0000"
@@ -2313,6 +2637,12 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-07-09 00:38:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2346,6 +2676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/gray/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:26:34 +0000"
@@ -2355,6 +2691,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/green/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/purple/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2377,6 +2719,12 @@
       "melon_slice": "2025-07-09 00:44:09 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/gold_door": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/daub": {
     "criteria": {
@@ -2402,9 +2750,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2025-07-09 01:22:08 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/magenta/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "ironshulkerbox:recipes/decorations/shulkerboxes/white/iron/vanilla_iron_shulker_box": {
+    "criteria": {
+      "has_gold": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
@@ -2444,9 +2810,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-09 01:19:37 +0000"
     },
     "done": true
   },
