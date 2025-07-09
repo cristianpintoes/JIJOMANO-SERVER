@@ -2174,6 +2174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-09 01:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-07-09 00:18:29 +0000"
@@ -2386,7 +2392,8 @@
       "minecraft:river": "2025-07-09 00:29:18 +0000",
       "minecraft:lush_caves": "2025-07-09 00:30:59 +0000",
       "minecraft:jungle": "2025-07-09 00:25:45 +0000",
-      "minecraft:ocean": "2025-07-09 00:19:00 +0000"
+      "minecraft:ocean": "2025-07-09 00:19:00 +0000",
+      "minecraft:warm_ocean": "2025-07-09 01:42:24 +0000"
     },
     "done": false
   },
@@ -2399,6 +2406,12 @@
   "supplementaries:recipes/flags/flag_green": {
     "criteria": {
       "has_stick": "2025-07-09 00:20:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-07-09 01:36:09 +0000"
     },
     "done": true
   },
