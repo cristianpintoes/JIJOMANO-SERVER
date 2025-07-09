@@ -47,3 +47,46 @@
 [09Jul2025 00:17:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tulio777 was slain by Zombie
 [09Jul2025 00:17:59.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight was doomed to fall by Spider
 [09Jul2025 00:18:16.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 was shot by Skeleton
+[09Jul2025 00:19:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 went up in flames
+[09Jul2025 00:21:00.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrisPinto01 has made the advancement [Crops of the Wild]
+[09Jul2025 00:21:00.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight tried to swim in lava
+[09Jul2025 00:21:14.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.25030678407529194
+[09Jul2025 00:21:14.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.5647245588908163
+[09Jul2025 00:21:14.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.7534281986610267
+[09Jul2025 00:21:14.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.4525135385962358
+[09Jul2025 00:21:15.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of firefrost52) moved wrongly! 0.6867527170049925
+[09Jul2025 00:22:10.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[09Jul2025 00:23:14.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09Jul2025 00:23:33.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3995ms or 79 ticks behind
+[09Jul2025 00:23:52.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3547ms or 70 ticks behind
+[09Jul2025 00:24:12.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5361ms or 107 ticks behind
+[09Jul2025 00:24:33.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6507ms or 130 ticks behind
+[09Jul2025 00:24:51.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2963ms or 59 ticks behind
+[09Jul2025 00:24:55.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrisPinto01 has made the advancement [Stone Age]
+[09Jul2025 00:24:59.620] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 73], pos: BlockPos{x=665, y=61, z=1183}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@2dab244d: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2877e9a0}
+[09Jul2025 00:24:59.621] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [41, 73], pos: BlockPos{x=662, y=61, z=1182}, status: minecraft:features, currently generating: Placed Direct{Configured: untamedwilds.world.gen.feature.FeatureReedClusters@2dab244d: net.minecraft.world.level.levelgen.feature.configurations.NoneFeatureConfiguration@2877e9a0}
+[09Jul2025 00:25:18.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CrisPinto01 has made the advancement [Getting an Upgrade]
+[09Jul2025 00:25:27.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tulio777 has made the advancement [Crops of the Wild]
+[09Jul2025 00:25:27.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3405ms or 68 ticks behind
+[09Jul2025 00:26:34.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight has made the advancement [Acquire Hardware]
+[09Jul2025 00:26:50.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tulio777 was slain by Silverfish
+[09Jul2025 00:27:53.595] [pool-12-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped]] from pos BlockPos{x=325, y=85, z=1029}
+[09Jul2025 00:27:58.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4404ms or 88 ticks behind
+[09Jul2025 00:27:58.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tulio777 moved too quickly! -4.232556172716841,1.1661092609382138,-9.357266440455419
+[09Jul2025 00:27:58.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zCris117 moved too quickly! -9.923238524169392,1.8800391385729398,0.4218279108115439
+[09Jul2025 00:27:58.878] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=325, y=85, z=1029} but found not block entity block Block{minecraft:air} at location
+[09Jul2025 00:27:58.878] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=325, y=85, z=1029}
+[09Jul2025 00:28:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight has made the advancement [Suit Up]
+[09Jul2025 00:28:37.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tulio777 has made the advancement [Stone Age]
+[09Jul2025 00:31:40.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Sweet Dreams]
+[09Jul2025 00:31:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 was slain by Mimic
+[09Jul2025 00:32:01.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Chest Slayer]
+[09Jul2025 00:32:03.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Amateur Archaeologist]
+[09Jul2025 00:32:15.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tulio777 has made the advancement [Sweet Dreams]
+[09Jul2025 00:32:54.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tulio777 has made the advancement [Getting an Upgrade]
+[09Jul2025 00:33:55.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=657, y=25, z=900} BlockPos{x=658, y=26, z=900}
+[09Jul2025 00:34:17.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Sweet Dreams]
+[09Jul2025 00:36:01.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight has made the advancement [Isn't It Iron Pick]
+[09Jul2025 00:38:31.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight has made the advancement [The Cutest Predator]
+[09Jul2025 00:38:54.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 has made the advancement [Suit Up]
+[09Jul2025 00:39:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 has made the advancement [Not Today, Thank You]

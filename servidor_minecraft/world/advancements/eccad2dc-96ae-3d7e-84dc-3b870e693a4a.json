@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-08 23:52:40 +0000"
@@ -47,9 +53,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-09 00:22:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-09 00:18:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-08 23:59:15 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-07-09 00:32:01 +0000"
     },
     "done": true
   },
@@ -92,6 +116,12 @@
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 00:18:49 +0000"
     },
     "done": true
   },
@@ -152,6 +182,12 @@
   "smallships:recipes/transportation/acacia_cog": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-07-09 00:16:29 +0000"
     },
     "done": true
   },
@@ -248,6 +284,12 @@
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2025-07-09 00:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-09 00:18:49 +0000"
     },
     "done": true
   },
@@ -455,6 +497,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:22:12 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roast_chicken_block": {
     "criteria": {
       "has_cooked_chicken": "2025-07-09 00:11:53 +0000"
@@ -509,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-09 00:24:24 +0000"
+    },
+    "done": true
+  },
   "woodenbucket:recipes/misc/wooden_bucket": {
     "criteria": {
       "has_log": "2025-07-08 23:49:33 +0000"
@@ -545,9 +599,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-09 00:18:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 00:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
     },
     "done": true
   },
@@ -695,6 +761,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/green/gold/iron_gold_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
@@ -707,9 +779,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/birch_galley": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-09 00:31:40 +0000"
     },
     "done": true
   },
@@ -816,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-09 00:01:35 +0000"
@@ -906,6 +996,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 00:18:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-07-08 23:52:40 +0000"
@@ -954,6 +1050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-08 23:49:36 +0000"
@@ -984,15 +1086,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-07-08 23:43:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-09 00:24:24 +0000"
     },
     "done": true
   },
@@ -1047,6 +1167,12 @@
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 00:11:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-07-09 00:18:49 +0000"
     },
     "done": true
   },
@@ -1113,6 +1239,12 @@
   "supplementaries:recipes/daub_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-07-08 23:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-09 00:24:24 +0000"
     },
     "done": true
   },
@@ -1212,6 +1344,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_brick": "2025-07-09 00:24:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
@@ -1290,9 +1428,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/magenta/iron/copper_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:22:12 +0000"
     },
     "done": true
   },
@@ -1332,6 +1482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-09 00:18:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/cherry_drakkar": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
@@ -1353,6 +1509,12 @@
   "supplementaries:recipes/daub_frame": {
     "criteria": {
       "forge:rods/wooden": "2025-07-08 23:52:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
     },
     "done": true
   },
@@ -1614,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-09 00:18:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_bench": "2025-07-09 00:12:31 +0000"
@@ -1680,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-07-09 00:24:24 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/wolf": {
     "criteria": {
       "has_bone": "2025-07-08 23:56:00 +0000"
@@ -1698,6 +1872,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-09 00:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-07-09 00:04:03 +0000"
@@ -1707,6 +1887,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-08 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/transportation/pale_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-09 00:16:29 +0000"
     },
     "done": true
   },
@@ -1773,6 +1959,12 @@
   "supplementaries:recipes/turn_table": {
     "criteria": {
       "minecraft:planks": "2025-07-08 23:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-09 00:22:12 +0000"
     },
     "done": true
   },
@@ -1950,6 +2142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-09 00:18:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_black": {
     "criteria": {
       "has_stick": "2025-07-08 23:52:40 +0000"
@@ -2028,6 +2226,12 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-07-09 00:32:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-09 00:12:50 +0000"
@@ -2062,7 +2266,11 @@
     "criteria": {
       "minecraft:beach": "2025-07-08 23:52:56 +0000",
       "minecraft:sparse_jungle": "2025-07-08 23:44:06 +0000",
-      "minecraft:lush_caves": "2025-07-09 00:09:00 +0000"
+      "minecraft:lukewarm_ocean": "2025-07-09 00:17:59 +0000",
+      "minecraft:river": "2025-07-09 00:21:21 +0000",
+      "minecraft:lush_caves": "2025-07-09 00:09:00 +0000",
+      "minecraft:jungle": "2025-07-09 00:21:57 +0000",
+      "minecraft:ocean": "2025-07-09 00:18:06 +0000"
     },
     "done": false
   },
@@ -2087,6 +2295,12 @@
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 00:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-09 00:24:24 +0000"
     },
     "done": true
   },
@@ -2171,8 +2385,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-07-09 00:11:36 +0000",
+      "cooked_cod": "2025-07-09 00:27:10 +0000",
       "rotten_flesh": "2025-07-09 00:01:21 +0000",
       "glow_berries": "2025-07-09 00:11:25 +0000",
+      "melon_slice": "2025-07-09 00:31:40 +0000",
       "beetroot": "2025-07-09 00:02:56 +0000",
       "cooked_chicken": "2025-07-09 00:11:58 +0000"
     },
@@ -2181,6 +2397,12 @@
   "smallships:recipes/transportation/jungle_galley": {
     "criteria": {
       "in_water": "2025-07-09 00:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-09 00:18:49 +0000"
     },
     "done": true
   },
@@ -2247,6 +2469,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/magenta/iron/vanilla_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 00:09:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-07-09 00:24:24 +0000"
     },
     "done": true
   },
