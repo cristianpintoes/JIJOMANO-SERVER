@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-09 02:23:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 01:49:38 +0000"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-07-09 02:23:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-07-09 00:57:02 +0000"
@@ -932,6 +944,12 @@
   "ironchest:recipes/decorations/upgrades/gold_to_diamond_chest_upgrade": {
     "criteria": {
       "has_glass": "2025-07-09 01:49:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-07-09 02:23:45 +0000"
     },
     "done": true
   },
@@ -2535,6 +2553,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-07-09 02:23:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 01:48:21 +0000"
@@ -3381,6 +3405,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-07-09 02:23:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2025-07-09 01:52:07 +0000"
@@ -3547,7 +3577,8 @@
       "minecraft:desert": "2025-07-09 01:43:57 +0000",
       "minecraft:jungle": "2025-07-09 00:25:45 +0000",
       "minecraft:ocean": "2025-07-09 00:19:00 +0000",
-      "minecraft:warm_ocean": "2025-07-09 01:42:24 +0000"
+      "minecraft:warm_ocean": "2025-07-09 01:42:24 +0000",
+      "minecraft:savanna": "2025-07-09 02:29:03 +0000"
     },
     "done": false
   },

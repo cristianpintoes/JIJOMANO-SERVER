@@ -1445,6 +1445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 02:28:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -1550,6 +1556,12 @@
   "ironshulkerbox:recipes/decorations/shulkerboxes/black/iron/vanilla_iron_shulker_box": {
     "criteria": {
       "has_gold": "2025-07-09 01:19:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-09 02:28:36 +0000"
     },
     "done": true
   },
@@ -1877,6 +1889,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-09 02:29:55 +0000"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/decorations/shulkerboxes/purple/obsidian/diamond_obsidian_shulker_box": {
     "criteria": {
       "has_obsidian": "2025-07-09 02:07:13 +0000"
@@ -2059,8 +2077,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-07-09 02:29:06 +0000",
       "minecraft:skeleton": "2025-07-09 00:17:13 +0000",
+      "minecraft:magma_cube": "2025-07-09 02:24:26 +0000",
       "minecraft:spider": "2025-07-09 00:13:31 +0000",
+      "minecraft:wither_skeleton": "2025-07-09 02:23:15 +0000",
       "minecraft:silverfish": "2025-07-09 00:45:45 +0000",
       "minecraft:zombie": "2025-07-09 00:39:52 +0000"
     },
@@ -2177,6 +2198,12 @@
   "travelersbackpack:recipes/decorations/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2025-07-09 01:49:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-09 02:23:16 +0000"
     },
     "done": true
   },
@@ -2678,6 +2705,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-09 02:23:16 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_red": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
@@ -2984,6 +3017,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-09 02:29:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-09 02:29:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-09 00:24:29 +0000"
@@ -2993,6 +3038,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 02:28:55 +0000"
     },
     "done": true
   },
@@ -3275,6 +3326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-09 02:23:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-07-09 02:17:55 +0000"
@@ -3290,6 +3347,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_yellow": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 00:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-09 02:29:55 +0000"
     },
     "done": true
   },
