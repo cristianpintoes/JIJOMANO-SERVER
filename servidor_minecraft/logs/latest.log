@@ -582,3 +582,9 @@
 [09Jul2025 02:32:15.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: soyfight moved too quickly! -6.322240921906385,1.2000000476837158,7.811533116064425
 [09Jul2025 02:32:15.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2301ms or 46 ticks behind
 [09Jul2025 02:32:18.565] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/365163, l='ServerLevel[world]', x=38.51, y=77.00, z=1078.51] died, message: 'Cartographer was slain by Big Cat'
+[09Jul2025 02:32:30.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zCris117 lost connection: Disconnected
+[09Jul2025 02:32:30.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zCris117 left the game
+[09Jul2025 02:32:59.476] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: soyfight lost connection: Disconnected
+[09Jul2025 02:32:59.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: soyfight left the game
+[09Jul2025 02:34:13.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: firefrost52 lost connection: Disconnected
+[09Jul2025 02:34:13.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: firefrost52 left the game
